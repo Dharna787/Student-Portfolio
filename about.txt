@@ -1,0 +1,9 @@
+Student Portfolio
+
+Name: Dharna Sharma
+Course: B.Tech CSE (Artificial Intelligence)
+College: Shoolini University
+
+I am a second-year student learning Computer Science,
+Artificial Intelligence, Git and GitHub.
+I am interested in programming and emerging technologies.
